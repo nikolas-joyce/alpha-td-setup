@@ -1,0 +1,4 @@
+﻿title: "Alpha: TD Setup (9-bar)"
+theme: minima
+plugins:
+  - jekyll-seo-tag
